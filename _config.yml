@@ -11,12 +11,12 @@ email: ""
 # ==========================================
 # If your repo is "username.github.io", leave baseurl as "".
 # If your repo is "my-project", change baseurl to "/my-project".
-# baseurl: "" 
-# url: "https://username.github.io"
+baseurl: "" 
+url: "https://jtrm-info.github.io"
 
 # ==========================================
 # Theme and Plugins
 # ==========================================
 # Use 'theme' for officially supported themes (e.g., jekyll-theme-minimal)
 # Use 'remote_theme' to fetch any public theme from a GitHub repository
-remote_theme: "pages-themes/cayman"
+remote_theme: "pages-themes/architect"
