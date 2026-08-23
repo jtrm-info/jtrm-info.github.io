@@ -5,11 +5,7 @@ title: Home
 
 # JTRM
 
-Jesse Rego-Martin — technical writer interested in the sciences, philosophy, and history.
-
 [About me](/about/)
-
----
 
 ## Posts
 
