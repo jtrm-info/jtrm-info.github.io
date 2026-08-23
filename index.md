@@ -9,6 +9,8 @@ Jesse Rego-Martin — technical writer interested in the sciences, philosophy, a
 
 [About me](/about/)
 
+---
+
 ## Posts
 
 <ul>
