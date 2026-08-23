@@ -11,7 +11,7 @@ email: ""
 # ==========================================
 # If your repo is "username.github.io", leave baseurl as "".
 # If your repo is "my-project", change baseurl to "/my-project".
-baseurl: "" 
+baseurl: ""
 url: "https://jtrm-info.github.io"
 
 # ==========================================
@@ -21,6 +21,22 @@ url: "https://jtrm-info.github.io"
 # Use 'remote_theme' to fetch any public theme from a GitHub repository
 remote_theme: "pages-themes/slate"
 
-
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
+
+# ==========================================
+# Build behaviour
+# ==========================================
+# Pretty post URLs: /2026/08/23/testing-123/
+permalink: /:year/:month/:day/:title/
+
+# Set this so posts written "today" aren't accidentally treated as future-dated.
+timezone: America/New_York
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
