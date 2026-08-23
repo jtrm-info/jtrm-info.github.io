@@ -1,0 +1,22 @@
+# ==========================================
+# Site Settings
+# ==========================================
+title: "JTRM"
+description: "Jesse's site"
+author: "Jesse"
+email: ""
+
+# ==========================================
+# URL & Path Settings (CRITICAL FOR GITHUB PAGES)
+# ==========================================
+# If your repo is "username.github.io", leave baseurl as "".
+# If your repo is "my-project", change baseurl to "/my-project".
+# baseurl: "" 
+# url: "https://username.github.io"
+
+# ==========================================
+# Theme and Plugins
+# ==========================================
+# Use 'theme' for officially supported themes (e.g., jekyll-theme-minimal)
+# Use 'remote_theme' to fetch any public theme from a GitHub repository
+remote_theme: "pages-themes/cayman"
