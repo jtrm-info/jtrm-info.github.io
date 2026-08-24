@@ -4,3 +4,4 @@ source "https://rubygems.org"
 # behave the same as the deployed site.
 gem "github-pages", group: :jekyll_plugins
 gem "webrick"
+gem "minima"
