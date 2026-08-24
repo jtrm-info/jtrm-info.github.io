@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# JTRM
-
 [About me](/about/)
 
 ## Posts
