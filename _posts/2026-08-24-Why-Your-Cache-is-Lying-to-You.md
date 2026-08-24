@@ -1,5 +1,3 @@
-# (test post) Why Your Cache Is Lying to You
-
 Caching is the classic "easy win" — until it isn't. The moment you store a copy of something, you've created a second source of truth, and the two will eventually disagree.
 
 ## The invalidation problem
