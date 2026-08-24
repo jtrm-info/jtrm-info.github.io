@@ -12,7 +12,7 @@ title: Home
   <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-    <p>{{ post.excerpt }}</p>
+    <p><small>{{ post.excerpt }}</small></p>
   </li>
 {% endfor %}
 </ul>
