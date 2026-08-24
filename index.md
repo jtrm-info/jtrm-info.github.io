@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[About me](/about/)
+Welcome to my blog! It's currently under construction. :)
 
 ## Posts
 
