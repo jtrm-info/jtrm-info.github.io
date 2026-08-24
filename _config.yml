@@ -19,7 +19,7 @@ url: "https://jtrm-info.github.io"
 # ==========================================
 # Use 'theme' for officially supported themes (e.g., jekyll-theme-minimal)
 # Use 'remote_theme' to fetch any public theme from a GitHub repository
-remote_theme: "pages-themes/slate"
+remote_theme: "pages-themes/minima"
 
 plugins:
   - jekyll-remote-theme
